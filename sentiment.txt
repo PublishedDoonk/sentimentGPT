@@ -1,0 +1,100 @@
+7,none
+-4,product clog
+3,product ordinary
+10,none
+-6,product leak
+7,service
+-5,none
+-7,price quality
+0,none
+-9,product rust
+5,none
+-6,price quality
+-10,service
+8,delivery fit
+-8,product diameter
+8,none
+-9,product quality
+5,none
+-6,product value
+9,product recommendation
+-7,product color
+6,installation
+-5,product transport
+-9,product quality
+4,product satisfaction
+-7,product installation
+7,price value
+-6,product garden
+8,product functionality
+-5,product reputation
+9,service delivery
+0,not impressed
+-10,product quality
+6,none
+-8,product design
+4,none
+-5,disappointed
+5,none
+-5,product quality
+9,none
+-10,price quality
+3,product functionality
+-9,service satisfaction
+9,product durability
+-7,service satisfaction
+-8,overall experience
+8,durability
+-5,regret purchasing
+6,efficiency
+-9,refund request
+9,positive experience
+-7,frustrating
+2,mediocre experience
+-5,product quality
+0,none
+-3,product quality
+7,product quality
+-10,company sustainability
+7,no issues
+-2,product expectations
+10,none
+-9,craftsmanship
+5,functionality
+-10,quality
+8,customer service
+-7,price
+5,none
+-10,price
+7,price
+-10,quality
+8,material
+-9,none
+7,none
+-8,quality
+7,price
+-9,none
+8,product quality
+-3,product purchase
+9,price value
+-8,company ethics
+7,product satisfaction
+-7,none
+6,product performance
+-10,price value
+8,product quality
+-9,company ethics
+5,product satisfaction
+-10,company ethics
+9,product satisfaction
+-7,product quality
+-3,product functionality
+-10,product quality
+7,no issues
+-10,product quality
+8,satisfied customer
+-8,product quality
+6,product functionality
+-7,product quality
+6,price quality
+-10,product quality
